@@ -1,0 +1,6 @@
+ipython
+ipykernel
+nbconvert
+pandas
+pyppeteer
+pyppeteer_stealth
